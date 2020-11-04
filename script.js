@@ -1,3 +1,11 @@
+// DOM Element
+// let body = document.querySelector('body');
+// let game = document.createElement('div');
+// body.appendChild(game);
+// game.textContent = result;
+
+
+
 // let play = confirm('Поиграем?');
 //  if (play) {
 
@@ -23,10 +31,7 @@ console.log(count);
 console.log(result);
 
    
-// let body = document.querySelector('body');
-// let result = document.createElement('div');
-// body.appendChild(result);
-// result.textContent =  ['_', '_', '_', '_', '_', '_'];
+
 
 // while (word !== result) {
 
