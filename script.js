@@ -11,7 +11,7 @@ game.textContent = 'Ура! Ты выиграл!';
 let word = words[Math.floor(Math.random() * words.length)];
 let count = word.length;
 let result = Array(word.length).fill('__');
-console.log(word);
+console.log(word); // на всякий пожарный :)
 
 // Game
 alert(`Начинаем! Здесь слово из ${count} букв кириллического алфавита! ${result}`);
